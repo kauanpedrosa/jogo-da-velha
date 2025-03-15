@@ -63,5 +63,5 @@ Bem-vindo ao **Jogo da Velha** em sua forma mais minimalista trazendo a experiê
 - Se preferir, use pull requests para cada rodada e acompanhe a história do jogo no GitHub.
 - Caso queira desfazer uma jogada, use `git revert` ou volte para um commit anterior.
 
-🎉 **Divirta-se jogando!**
+## Jogadores testados: [Yuri](https://github.com/yudix1605) / [Murilo](https://github.com/kauanpedrosa)
 
