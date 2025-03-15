@@ -1,4 +1,4 @@
-# 📝 Jogo da Velha - Versão TXT
+# 🚀 Jogo da Velha
 
 Bem-vindo ao **Jogo da Velha** em sua forma mais minimalista! Este jogo é jogado editando diretamente um arquivo `.txt`, trazendo a experiência clássica de forma simples e manual.
 
